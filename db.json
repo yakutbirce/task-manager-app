@@ -1,0 +1,147 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "task": "Market alışverişi yap",
+      "category": "Kişisel",
+      "type": "Alışveriş",
+      "description": "Alınacaklar: süt, ekmek, yumurta, sebze, meyve",
+      "deadline": "2024-07-31",
+      "status": "Yüksek Öncelik"
+    },
+    {
+      "id": "2",
+      "task": "Toplantı hazırlıkları yap",
+      "category": "İş",
+      "type": "Toplantı",
+      "description": "Toplantı notlarını hazırla, sunum yap",
+      "deadline": "2024-07-28",
+      "status": "Orta Öncelik"
+    },
+    {
+      "id": "3",
+      "task": "Ödevleri tamamla",
+      "category": "Eğitim",
+      "type": "Ödev",
+      "description": "İngilizce ödevini tamamla",
+      "deadline": "2024-07-30",
+      "status": "Yüksek Öncelik"
+    },
+    {
+      "id": "4",
+      "task": "Blog yazısı yaz",
+      "category": "Hobi",
+      "type": "Yazı",
+      "description": "Yeni blog yazısı için içerik oluştur",
+      "deadline": "2024-08-01",
+      "status": "Düşük Öncelik"
+    },
+    {
+      "id": "5",
+      "task": "Spor salonuna git",
+      "category": "Sağlık",
+      "type": "Egzersiz",
+      "description": "1 saatlik egzersiz yap",
+      "deadline": "2024-07-29",
+      "status": "Yüksek Öncelik"
+    },
+    {
+      "id": "6",
+      "task": "Aile yemeği organize et",
+      "category": "Aile",
+      "type": "Organizasyon",
+      "description": "Aile yemeği için menü belirle ve hazırlık yap",
+      "deadline": "2024-07-27",
+      "status": "Orta Öncelik"
+    },
+    {
+      "id": "7",
+      "task": "Yeni müşteri araştırması yap",
+      "category": "İş",
+      "type": "Araştırma",
+      "description": "Yeni müşteriler için pazar araştırması yap",
+      "deadline": "2024-08-02",
+      "status": "Yüksek Öncelik"
+    },
+    {
+      "id": "8",
+      "task": "Film izle",
+      "category": "Eğlence",
+      "type": "Film",
+      "description": "Netflix'te yeni bir film izle",
+      "deadline": "2024-08-05",
+      "status": "Düşük Öncelik"
+    },
+    {
+      "id": "9",
+      "task": "Kitap oku",
+      "category": "Kişisel Gelişim",
+      "type": "Okuma",
+      "description": "Haftada bir kitap bitir",
+      "deadline": "2024-08-10",
+      "status": "Orta Öncelik"
+    },
+    {
+      "id": "10",
+      "task": "Ofis temizliği yap",
+      "category": "İş",
+      "type": "Temizlik",
+      "description": "Haftalık ofis temizliğini yap",
+      "deadline": "2024-08-03",
+      "status": "Düşük Öncelik"
+    },
+    {
+      "id": "11",
+      "task": "Yemek tarifi dene",
+      "category": "Hobi",
+      "type": "Yemek Yapma",
+      "description": "Yeni bir yemek tarifi dene ve pişir",
+      "deadline": "2024-08-07",
+      "status": "Orta Öncelik"
+    },
+    {
+      "id": "12",
+      "task": "Kod incelemesi yap",
+      "category": "İş",
+      "type": "Kod İncelemesi",
+      "description": "Kodları incele ve geri bildirim ver",
+      "deadline": "2024-08-04",
+      "status": "Yüksek Öncelik"
+    },
+    {
+      "id": "13",
+      "task": "E-posta temizliği yap",
+      "category": "Kişisel",
+      "type": "E-posta",
+      "description": "Gereksiz e-postaları sil ve önemlileri düzenle",
+      "deadline": "2024-08-01",
+      "status": "Düşük Öncelik"
+    },
+    {
+      "id": "14",
+      "task": "Bahçe düzenlemesi yap",
+      "category": "Ev",
+      "type": "Bahçe",
+      "description": "Çimleri kes, çiçekleri sula",
+      "deadline": "2024-08-06",
+      "status": "Orta Öncelik"
+    },
+    {
+      "id": "15",
+      "task": "Sosyal medya içerikleri oluştur",
+      "category": "İş",
+      "type": "İçerik Üretimi",
+      "description": "Sosyal medya içerik planını oluştur ve yayınla",
+      "deadline": "2024-08-08",
+      "status": "Yüksek Öncelik"
+    }
+  ],
+  "users": [
+    {
+      "id": "d08d",
+      "username": "abc123",
+      "email": "abc@gmail.com",
+      "password": "abc123"
+    }
+  ]
+}
