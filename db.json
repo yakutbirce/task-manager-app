@@ -134,6 +134,15 @@
       "description": "Sosyal medya içerik planını oluştur ve yayınla",
       "deadline": "2024-08-08",
       "status": "Yüksek Öncelik"
+    },
+    {
+      "id": "9b1f3631-9705-4c68-9f3c-8a2a74c97093",
+      "task": "Voleybol maçı düzenle",
+      "type": "Diğer",
+      "description": "Haftalık voleybol antrenmanı için saha rezervasyonu yap ve takım üyelerine bilgi ver",
+      "category": "Spor",
+      "status": "Yüksek Öncelik",
+      "deadline": "2024-07-25"
     }
   ],
   "users": [

@@ -59,14 +59,6 @@ const AddTask = () => {
           <input type="text" required name="task" />
         </div>
         <div>
-          <label htmlFor="">Kategori</label>
-          <input type="text" required name="category" />
-        </div>
-        <div>
-          <label htmlFor="">Açıklamalar</label>
-          <input type="text" required name="description" />
-        </div>
-        <div>
           <label htmlFor="">Tür</label>
           <select name="type" required>
             <option disabled selected>
@@ -76,6 +68,15 @@ const AddTask = () => {
               <option key={type}>{type}</option>
             ))}
           </select>
+        </div>
+        <div>
+          <label htmlFor="">Açıklamalar</label>
+          <input type="text" required name="description" />
+        </div>
+        <div>
+          {" "}
+          <label htmlFor="">Kategori</label>{" "}
+          <input type="text" required name="category" />{" "}
         </div>
         <div>
           <label htmlFor="">Durum</label>
