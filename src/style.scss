@@ -80,7 +80,7 @@ header {
 
 @media (max-width: 768px) {
   header {
-    flex-direction: column;
+    flex-direction: row;
     align-items: flex-start;
 
     h1 {
@@ -88,9 +88,10 @@ header {
     }
 
     div {
-      flex-direction: column;
+      flex-direction: row;
       align-items: flex-start;
-      gap: 10px;
+      padding: 15px;
+      gap: 15px;
       width: 100%;
 
       a {

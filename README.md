@@ -22,14 +22,15 @@ Proje dosyalarını bilgisayarınıza indirmek ve çalıştırmak için aşağı
 - react-toastify
 - json-server
 - uuid
+- bcrypt
 
 ## Componentler ve Sayfalar
 
 - **Card.jsx**: Görev kartı componenti.
 - **Filter.jsx**: Filtre componenti.
 - **Header.jsx**: Sayfa başlık componenti.
-- **AddTask.jsx**: Görev ekleme sayfası.
-- **TaskList.jsx**: Görev listesi sayfası.
+- **Modal.jsx**: Modal componenti
+- **UserContext.jsx**: Kullanıcı Componenti
 - **Login.jsx**: Oturum açma sayfası.
 - **Signup.jsx**: Kayıt olma sayfası.
 
@@ -99,6 +100,10 @@ Modal bileşeni, görev detaylarını düzenlemek için kullanılan bir modal pe
 - React
 - react-redux
 - useState hook
+
+### UserContext Bileşeni
+
+Kullanıcı verilerini ve kimlik doğrulamayı yönetmek için kullanılan bileşen
 
 ### Constants Dosyası
 

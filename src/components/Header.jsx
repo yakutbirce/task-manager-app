@@ -1,25 +1,17 @@
 import React from "react";
-import { NavLink } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 const Header = () => {
   return (
     <header>
-      <div className="left-links">
-        <h1>Görev Takibi</h1>
-        <NavLink to="/" activeClassName="active">
-          Görev Listesi
-        </NavLink>
-        <NavLink to="/add-task" activeClassName="active">
-          Görev Ekle
-        </NavLink>
+      <h1>Görev Yöneticisi</h1>
+      <div className="nav-left">
+        <Link to="/">Görev Listesi</Link>
+        <Link to="/add-task">Görev Ekle</Link>
       </div>
-      <div className="right-links">
-        <NavLink to="/signup" activeClassName="active">
-          Kayıt Ol
-        </NavLink>
-        <NavLink to="/login" activeClassName="active">
-          Oturum Aç
-        </NavLink>
+      <div className="nav-right">
+        <Link to="/signup">Kayıt Ol</Link>
+        <Link to="/login">Giriş Yap</Link>
       </div>
     </header>
   );

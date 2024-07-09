@@ -147,10 +147,16 @@
   ],
   "users": [
     {
-      "id": "d08d",
+      "username": "user123",
+      "email": "user123@gmail.com",
+      "password": "$2a$10$71LAlO/7QMP0t4RMjT1oZuMUZ6qrQ/IPGyd5nB8QlCSt07p56GegO",
+      "id": "pYABSmc"
+    },
+    {
       "username": "abc123",
-      "email": "abc@gmail.com",
-      "password": "abc123"
+      "email": "abc123@hotmail.com",
+      "password": "$2a$10$v1hDIlughn.RMTy9V1nbvuFjz44617T.76CJi0ird2uQRW4Wfqrmy",
+      "id": "oA8Jnvl"
     }
   ]
 }
